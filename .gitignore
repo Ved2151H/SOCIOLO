@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Flutter
+build/
+.dart_tool/
+.packages
+
+# Android
+*.iml
+.gradle/
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
